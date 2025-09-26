@@ -1,0 +1,61 @@
+# MATLAB project files and common binaries
+# Ignore MATLAB autosave and temp files
+*.asv
+*.autosave
+*.m~
+*.mlx
+*.mlapp
+*.mlappinstall
+*.p
+*.mex*
+*.mexw64
+*.mexw32
+*.mexa64
+
+# Data and figures (common large/binary files)
+*.mat
+*.fig
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Generated documentation and build artifacts
+build/
+docs/_build/
+*.log
+*.out
+
+# Editor / OS
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archive / backup
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.bak
+*.tmp
+
+# Git LFS pointer files (if you use LFS, keep .gitattributes tracked)
+.gitattributes
+
+# Tensorlab / third-party caches
+tensorlab_*/
+
+# Ignore node_modules if any JS tooling appears
+node_modules/
+
+# Keep track of things you probably DO want to commit (uncomment to keep)
+# !README.md
+
+# End of file
