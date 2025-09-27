@@ -6,7 +6,7 @@ This repository contains the code used in the paper:
 
 Chen, Xiaonan and Wang, Jun. "Power Spectrum Unmixing via Coupled Tensor Decomposition: Unified Identifiability and Algebraic Solution." IEEE Transactions on Signal Processing, 2025.
 
-Cite this work
+Citation
 
 ```
 @article{chen2025power,
