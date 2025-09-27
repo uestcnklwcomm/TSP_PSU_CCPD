@@ -24,4 +24,4 @@ Contents
 - `verifications_of_theorem/` — experimental scripts for the paper's theorems
 - `adding noise/` — experimental scripts under noisy settings. We use two kind of denoising approach. Functions with suffix "nd" refer to the non-diagonal sub-tensors denoising, see more details in Appendix D
 
-SDR data is provided by Prof. Xiao Fu.
+SDR data is provided by [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/index.html).
