@@ -25,7 +25,7 @@ Contents
 - `adding noise/` — experimental scripts under noisy settings. We use two kind of denoising approach. Functions with suffix "nd" refer to the non-diagonal sub-tensors denoising, see more details in Appendix D
 
 SDR data is provided by [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/index.html).
-[ref1](https://ieeexplore.ieee.org/document/7175044) X. Fu, N. D. Sidiropoulos, J. H. Tranter, and W.-K. Ma, “A factor
+[ref](https://ieeexplore.ieee.org/document/7175044) X. Fu, N. D. Sidiropoulos, J. H. Tranter, and W.-K. Ma, “A factor
 analysis framework for power spectra separation and multiple emitter
 localization,” IEEE Trans. Signal Process., vol. 63, no. 24, pp. 6581–
 6594, 2015
