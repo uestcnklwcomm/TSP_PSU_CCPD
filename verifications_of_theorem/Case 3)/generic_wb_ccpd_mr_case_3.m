@@ -24,6 +24,7 @@ white_Gaussian = (randn(R, Ns_all) + 1i * randn(R, Ns_all)) / sqrt(2);
 Stats = Unitary * white_Gaussian;
 
 for rr = 1:R
+    
     fc_r = fc(rr);
 
     % low-pass filter
