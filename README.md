@@ -22,3 +22,4 @@ Contents
 - MATLAB functions and scripts used in the experiments
 - `functions/` — algorithm implementations and supporting code
 - `verifications_of_theorem/` — experimental scripts for the paper's theorems
+- `adding noise/` — experimental scripts under noisy settings. We use two kind of denoising approach. Functions with suffix "nd" refer to the non-diagonal sub-tensors denoising, see more details in Appendix D
