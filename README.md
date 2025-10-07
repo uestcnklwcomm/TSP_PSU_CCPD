@@ -32,7 +32,7 @@ analysis framework for power spectra separation and multiple emitter
 localization,” IEEE Trans. Signal Process., vol. 63, no. 24, pp. 6581–
 6594, 2015.
 
-- `Case 2)/` — Carrier-frequency-based Compressed sensing, [ref](https://ieeexplore.ieee.org/document/9674222) H. Wang, J. Fang, H. Duan, and H. Li, “Compressive wideband spectrum
+- `Case 2)/` — Carrier-frequency-based compressed sensing, [ref](https://ieeexplore.ieee.org/document/9674222) H. Wang, J. Fang, H. Duan, and H. Li, “Compressive wideband spectrum
 sensing and signal recovery with unknown multipath channels,” IEEE
 Trans. Wirel. Commun., vol. 21, no. 7, pp. 5305–5316, Jul. 2022.
   
