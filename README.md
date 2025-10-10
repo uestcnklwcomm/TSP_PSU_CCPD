@@ -9,13 +9,16 @@ Chen, Xiaonan and Wang, Jun. "Power Spectrum Unmixing via Coupled Tensor Decompo
 Citation
 
 ```
-@article{chen2025power,
-  title={Power Spectrum Unmixing via Coupled Tensor Decomposition: Unified Identifiability and Algebraic Solution},
+@ARTICLE{chen2025power,
   author={Chen, Xiaonan and Wang, Jun},
-  journal={IEEE Transactions on Signal Processing},
+  journal={IEEE Transactions on Signal Processing}, 
+  title={Power Spectrum Unmixing via Coupled Tensor Decomposition: Unified Identifiability and Algebraic Solution}, 
   year={2025},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-16},
+  keywords={Sensors;Vectors;Tensors;Noise;Compressed sensing;Cognitive radio;Bandwidth;Signal processing algorithms;Routing;Resource management;Cognitive radio;power spectrum sensing;coupled tensor decomposition;identifiability},
+  doi={10.1109/TSP.2025.3615251}}
 ```
 
 Contents
